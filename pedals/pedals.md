@@ -12,7 +12,7 @@ modified: 2021-02-15T11:27:22-05:00
 - DIY from an old pallet
 
 - Built into housing
-    - power supply
+    - power supply (or just in compartment)
     - power switch
     - effects loop send and return jacks
     - input and output jacks
@@ -55,6 +55,20 @@ Incorporate some dry/wet mixing knob? Like the "Split 'n' Blend". Just keep in m
 - 10 band EQ pedal with slide pots
 - 6 band EQ pedal from pedalPCB
 - [pussy melter...](https://pcbguitarmania.com/product/pussy-offender/)
+ 
+##### PedalPCB
+- [ ] Duocast (DUAL Dirt?) 
+- [ ] Paragon (DUAL OVERDRIVE) king of tone
+- [ ] Duo-Phase (DUAL PHASER)
+- [ ] Caesar Chorus (CHORUS) walrus audio julia
+
+##### PCBguitarmania
+- [ ] Triple wicked (DUAL DISTORTION)
+- [ ] Sea Lion Compressor (COMPRESSOR) walrus audio deep six
+- [ ] No-Noise Gate (NOISE GATE) MXR noise gate
+- [ ] Ghost Device(REVERB)
+- [ ] Life Device (Compact Version) (DELAY)
+- [ ] Knight of Tone (DUAL OVERDRIVE) external switches instead of internal DIPs
 
 #### Buy list
 - [x] $ 90.00  JOYO R-07 Aquarius Delay
