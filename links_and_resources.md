@@ -1,13 +1,18 @@
-## Links
-### Parts/kits
+Links And Resources
+===================
+
+## Parts/kits
 - [Build Your Own Clone](https://buildyourownclone.com/)
 - [LoveMySwitches pedal components](https://lovemyswitches.com/)
 - [Guitar Pedal Parts](https://guitarpedalparts.com/)
+- [Pedal Parts Plus]("All Blues Soloing for Jazz Guitar: Scales, Licks, Concepts & Choruses" by Jim Ferguson)
+- [PCBguitarmania](https://pcbguitarmania.com/)
+- [PedalPCB](https://www.pedalpcb.com/)
 - [LectricFX DIY pedal PCBs](https://lectric-fx.com/)
 - [emerson solderless mint cables](https://www.sweetwater.com/store/detail/EmCabKitMnt--emerson-custom-g-and-h-solderless-patch-cable-kit-mint-green)
 - [deep six clone?](https://pcbguitarmania.com/product/sea-lion-compressor/) 
 
-### Layouts/schematics/tutorials
+## Layouts/schematics/tutorials
 - [hot to make a phaser pedal](https://www.instructables.com/Phaser-Guitar-Pedal/)
 - [diamond compressor](http://effectslayouts.blogspot.com/2017/06/diamond-compressor.html?m=1)
 - [Engineers Thumb comp](http://effectslayouts.blogspot.com/2017/09/valve-wizard-engineers-thumb.html)
@@ -29,8 +34,9 @@
 - [ZombieGuitar Intro To Modes](https://www.zombieguitar.com/introduction-to-modes/)
 - [ZombieGuitar Solo Within a Key/Diatonic scale](https://www.zombieguitar.com/how-to-solo-within-a-key-aka-diatonic-scale-using-7-patternspositions/)
 - [ZombieGuitar](https://www.zombieguitar.com/)
+- "All Blues Soloing for Jazz Guitar: Scales, Licks, Concepts & Choruses" by Jim Ferguson
 
-### Info
+## Info
 - [compressor + overdrive](https://shop.nunomo.com/blogs/news/explained-before-overdrive-or-after-overdrive)
 - [Peavey amp Intermittent Sound](https://www.unbrokenstring.com/intermittent-sound-peavey-renown-combo-amp/)
 - [Ibanez Pro Line 1550 Restoration](http://vintagesoulguitars.com/wp-content/uploads/2014/12/Ibanez2.jpeg)
