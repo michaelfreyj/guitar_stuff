@@ -55,6 +55,7 @@ Incorporate some dry/wet mixing knob? Like the "Split 'n' Blend". Just keep in m
 - 10 band EQ pedal with slide pots
 - 6 band EQ pedal from pedalPCB
 - [pussy melter...](https://pcbguitarmania.com/product/pussy-offender/)
+
  
 ##### PedalPCB
 - [ ] Duocast (DUAL Dirt?) 
@@ -152,3 +153,24 @@ TOTAL: $615...
 - TC Ditto+ 
 - EHX 720 (or 1440) Stereo Looper
 
+
+## Parts Sourcing
+passive components and most semiconductors: Tayda and Mouser. Mouser may seem
+expensive at first (it sure did to me!), but once you start ordering things
+like caps and resistors in multiples of 100, it gets much much cheaper, with
+prices comparable to Tayda's but higher quality.
+
+enclosures: Mammoth and Tayda;
+
+3PDTs: Mammoth's "pro" have a nice soft "click" to them;
+
+Hard to find parts: SmallBear
+
+Pots: Mammoth (used to get pots from Tayda as well but their assortment was
+somewhat inconsistent, and i don't like mixing pots from different suppliers as
+they often have a different feel)
+
+Audio jacks: don't go cheap here! BLMS is a good place
+
+Knobs: Aliexpress, if you don't mind waiting (Daier is a good supplier but you
+need to order at least 100)
