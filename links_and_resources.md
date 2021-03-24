@@ -12,6 +12,35 @@ Links And Resources
 - [emerson solderless mint cables](https://www.sweetwater.com/store/detail/EmCabKitMnt--emerson-custom-g-and-h-solderless-patch-cable-kit-mint-green)
 - [deep six clone?](https://pcbguitarmania.com/product/sea-lion-compressor/) 
 
+## Parts Sourcing
+passive components and most semiconductors:
+- Tayda
+- Mouser (may seem expensive at first (it sure did to me!), but once you start
+    ordering things like caps and resistors in multiples of 100, it gets much
+    much cheaper, with prices comparable to Tayda's but higher quality.)
+
+enclosures:
+- Mammoth and Tayda
+
+3PDTs:
+- Mammoth's "pro" have a nice soft "click" to them
+
+Hard to find parts:
+- SmallBear
+
+Pots:
+- Mammoth (used to get pots from Tayda as well but their assortment was
+    somewhat inconsistent, and i don't like mixing pots from different
+    suppliers as they often have a different feel)
+
+Audio jacks:
+- BLMS is a good place; don't go cheap here!
+
+Knobs:
+- Guitar Pedal Parts (nice variety but more expensive)
+- Aliexpress, if you don't mind waiting (Daier is a good supplier but you need
+    to order at least 100)
+
 ## Layouts/schematics/tutorials
 - [hot to make a phaser pedal](https://www.instructables.com/Phaser-Guitar-Pedal/)
 - [diamond compressor](http://effectslayouts.blogspot.com/2017/06/diamond-compressor.html?m=1)
@@ -41,5 +70,4 @@ Links And Resources
 - [Peavey amp Intermittent Sound](https://www.unbrokenstring.com/intermittent-sound-peavey-renown-combo-amp/)
 - [Ibanez Pro Line 1550 Restoration](http://vintagesoulguitars.com/wp-content/uploads/2014/12/Ibanez2.jpeg)
 - [Tips for stacking drive pedals](https://www.wamplerpedals.com/blog/music/2020/05/gain-stacking-101/)
-
 
