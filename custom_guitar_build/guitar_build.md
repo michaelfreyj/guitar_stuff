@@ -6,8 +6,10 @@ Diy Guitar
 Les paul shape??
 
 ## Bridge
-- [Kahler tremolo](https://www.kahlerusa.com/flat-mount-tremolos-bridges)
-Seems like it has some merit over the floyd rose
+- [Kahler tremolo](https://www.kahlerusa.com/flat-mount-tremolos-bridges) Seems
+    like it has some merit over the floyd rose
+- gibson style tune-o-matic
+
 
 ## electronics config
 - active or passive pickups?
@@ -50,11 +52,13 @@ for now just switch out the pickups and move the volume
 - hipshot $80 (fixed)
 - kahler $230 (fixed)
 - kahler $360 (flat mount trem)
+- fender style fixed
 ## Volume/Tone Control
 volume knob shouldn't interfere with palm muting
 - 4 knobs (two volume, two tone)
 - 3 knobs (one volume, two tone)
 - [treble bleed circuit](https://octavedoctor.com/treble-bleed-circuit-what-is-it-and-do-i-need-it/)
+- 2 concentric pots (one for each pickup; top-volume, bottom-tone)
 ## Pick Gaurd
 - custom pick guard CNCed from thin wood (golden oak stain?)
 - black acrylic with white edges
