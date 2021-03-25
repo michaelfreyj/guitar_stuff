@@ -31,10 +31,15 @@ Squier Parts-Caster
 Black and gold look total build? probably like $1000..
 for now just switch out the pickups and move the volume
 
+[reference build?](https://www.youtube.com/watch?v=J9gBnbQs8T0)
+
 ## Pickups (probably gold)
 - 1 neck humbucker and 1 bridge angled humbucker
 - maybe z coils?
 - seymor duncans?
+- Hot rails? 
+    - Neck -- [BC-1](https://www.dimarzio.com/pickups/rail-hum-canceling-strat/dimarzio-bc-1)
+    - Bridge -- [Tone zone](https://www.dimarzio.com/pickups/rail-hum-canceling-strat/tone-zone-s)
 ## Pickup Selection
 - free-way 10-way switch
 - pull pots with 3-way switch
