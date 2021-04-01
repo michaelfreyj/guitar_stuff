@@ -79,7 +79,7 @@ Incorporate some dry/wet mixing knob? Like the "Split 'n' Blend". Just keep in m
 - [ ] $100.00  Compressor of some kind
 - [ ] $ 50.00  DIY Pedal board
 - [ ] $ 30.00  DIY patch cables
-- [ ] $ 20.00  Dunlop System 65 Cleaning Kit
+- [x] $ 20.00  Dunlop System 65 Cleaning Kit
 - [ ] $ 30.00  Ernie Ball Tool Kit
 - [ ] $ 85.00  Mooer leverline mini volume
 
