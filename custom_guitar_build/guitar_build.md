@@ -12,15 +12,27 @@ Les paul shape??
 
 
 ## electronics config
+
+### Pickups
 - active or passive pickups?
+- definitely humbuckers
+    - maybe custom [pickups](https://www.mojotone.com/PickupKits_x#/)
+- maybe throw in a piezo bridge...
 - how many pickups?
+    - probably just 2 I never use the middle
 - perpedicular or angled?
-- neck humbucker/middle single coil/bridge humbucker
+    - maybe angled at the bridge, but might also want to keep it simple
+
+### Controls
 - toggle switch for chosing pickup config (either 2 spst or one dpdt)
 - pull pots for coil splitting and tone
+    - probably only need that for the neck if at all
 - 5 way toggle?
+    - nope
 - one volume knob?
+    - two volume knobs, two tone knobs
 - killswitch (momentary button)
+    - could probably just use the pickup selector
  
 ## Neck
 width? reall depends on bridge
