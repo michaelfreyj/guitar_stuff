@@ -28,10 +28,11 @@ Signal chain close to this order
 
 - [ ] Tuner
 - [ ] Acoustic simulator
-- [ ] Compressor
+- [x] Compressor
 - [x] Fuzz
 - [x] Overdrive
 - [x] Wah
+- [ ] Distortion
 - [ ] Flip-flopper
 - [ ] Bit crusher style
 - [ ] Synth mod
@@ -65,10 +66,10 @@ Incorporate some dry/wet mixing knob? Like the "Split 'n' Blend". Just keep in m
 
 ##### PCBguitarmania
 - [ ] Triple wicked (DUAL DISTORTION)
-- [ ] Sea Lion Compressor (COMPRESSOR) walrus audio deep six
+- [x] Sea Lion Compressor (COMPRESSOR) walrus audio deep six
 - [ ] No-Noise Gate (NOISE GATE) MXR noise gate
-- [ ] Ghost Device(REVERB)
-- [ ] Life Device (Compact Version) (DELAY)
+- [x] Ghost Device (REVERB)
+- [ ] Life Device (Compact Version) (FUZZ/OCTAVE/BOOST)
 - [ ] Knight of Tone (DUAL OVERDRIVE) external switches instead of internal DIPs
 
 #### Buy list
@@ -76,7 +77,6 @@ Incorporate some dry/wet mixing knob? Like the "Split 'n' Blend". Just keep in m
 - [x] $ 40.00  Nux NMP-2 Dual Footswitch
 - [ ] $ 80.00  TC Polytune 3 mini
 - [ ] $ 90.00  JOYO R-09 VISION Dual Channel Mod
-- [ ] $100.00  Compressor of some kind
 - [ ] $ 50.00  DIY Pedal board
 - [ ] $ 30.00  DIY patch cables
 - [x] $ 20.00  Dunlop System 65 Cleaning Kit
@@ -109,6 +109,8 @@ TOTAL: $615...
 #### Overdrive/Distortion
 - NUX Fireman Dual Channel Distortion
 - R-05 MAXIMUM dual channel overdrive + boost
+- BYOC crown jewel distortion
+- Life Device octave fuzz
 - octave fuzz
 
 ## EQ

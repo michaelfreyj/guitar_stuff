@@ -14,23 +14,18 @@ Les paul shape??
 ## electronics config
 
 ### Pickups
-- active or passive pickups?
-- definitely humbuckers
-    - maybe custom [pickups](https://www.mojotone.com/PickupKits_x#/)
+- Fishman Fluence
+    - differences in Modern vs Classic
 - maybe throw in a piezo bridge...
-- how many pickups?
-    - probably just 2 I never use the middle
 - perpedicular or angled?
     - maybe angled at the bridge, but might also want to keep it simple
 
 ### Controls
-- toggle switch for chosing pickup config (either 2 spst or one dpdt)
-- pull pots for coil splitting and tone
-    - probably only need that for the neck if at all
-- 5 way toggle?
-    - nope
-- one volume knob?
-    - two volume knobs, two tone knobs
+- 1 switch for voicing
+    - push pull or toggle?
+- 1 pickup selector
+    - toggle
+- two volume knobs, two tone knobs
 - killswitch (momentary button)
     - could probably just use the pickup selector
  
@@ -54,6 +49,7 @@ for now just switch out the pickups and move the volume
 - Hot rails? 
     - Neck -- [BC-1](https://www.dimarzio.com/pickups/rail-hum-canceling-strat/dimarzio-bc-1)
     - Bridge -- [Tone zone](https://www.dimarzio.com/pickups/rail-hum-canceling-strat/tone-zone-s)
+- Fishman Fluence single coils
 ## Pickup Selection
 - free-way 10-way switch
 - pull pots with 3-way switch
