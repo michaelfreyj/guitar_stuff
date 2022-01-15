@@ -40,6 +40,17 @@ Squier Parts-Caster
 Black and gold look total build? probably like $1000..
 for now just switch out the pickups and move the volume
 
+- Fishman fluence single coils
+- 1 volume knob
+- 1 tone knob w/ push/pull pot for voice switch
+- killswitch?
+- gold hardware?
+- warmoth 2 knob pickguard
+- warmoth neck maple/rosewood 
+- tunings pegs?
+- bridge?
+
+
 [reference build?](https://www.youtube.com/watch?v=J9gBnbQs8T0)
 
 ## Pickups (probably gold)
