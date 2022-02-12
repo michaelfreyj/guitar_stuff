@@ -30,6 +30,9 @@ Les paul shape??
     - could probably just use the pickup selector
  
 ## Neck
+- 25.5" scale
+- 43mm or 44mm nut
+- 24 frets probably
 width? reall depends on bridge
 scale
 number of frets, 24?
@@ -47,8 +50,11 @@ for now just switch out the pickups and move the volume
 - gold hardware?
 - warmoth 2 knob pickguard
 - warmoth neck maple/rosewood 
+- hipshot bridge
 - tunings pegs?
-- bridge?
+
+
+
 
 
 [reference build?](https://www.youtube.com/watch?v=J9gBnbQs8T0)
@@ -60,7 +66,7 @@ for now just switch out the pickups and move the volume
 - Hot rails? 
     - Neck -- [BC-1](https://www.dimarzio.com/pickups/rail-hum-canceling-strat/dimarzio-bc-1)
     - Bridge -- [Tone zone](https://www.dimarzio.com/pickups/rail-hum-canceling-strat/tone-zone-s)
-- Fishman Fluence single coils
+- Fishman Fluence
 ## Pickup Selection
 - free-way 10-way switch
 - pull pots with 3-way switch
@@ -71,6 +77,7 @@ for now just switch out the pickups and move the volume
 - hipshot $80 (fixed)
 - kahler $230 (fixed)
 - kahler $360 (flat mount trem)
+- floyd style
 - fender style fixed
 ## Volume/Tone Control
 volume knob shouldn't interfere with palm muting
@@ -81,7 +88,7 @@ volume knob shouldn't interfere with palm muting
 ## Pick Gaurd
 - custom pick guard CNCed from thin wood (golden oak stain?)
 - black acrylic with white edges
-- brass pick guard (probably use brass bridge too)
+- Custom carbon fiber pick gaurd and back cover plates
 ## Neck
 - prs style neck?
 - 24 fret neck extension from warmoth?

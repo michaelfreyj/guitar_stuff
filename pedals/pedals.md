@@ -26,13 +26,13 @@ modified: 2021-02-15T11:27:22-05:00
 ## Pedals
 Signal chain close to this order
 
-- [ ] Tuner
+- [x] Tuner
 - [ ] Acoustic simulator
 - [x] Compressor
 - [x] Fuzz
 - [x] Overdrive
 - [x] Wah
-- [ ] Distortion
+- [x] Distortion
 - [ ] Flip-flopper
 - [ ] Bit crusher style
 - [ ] Synth mod
@@ -65,7 +65,7 @@ Incorporate some dry/wet mixing knob? Like the "Split 'n' Blend". Just keep in m
 - [ ] Caesar Chorus (CHORUS) walrus audio julia
 
 ##### PCBguitarmania
-- [ ] Triple wicked (DUAL DISTORTION)
+- [x] Triple wicked (DUAL DISTORTION)
 - [x] Sea Lion Compressor (COMPRESSOR) walrus audio deep six
 - [ ] No-Noise Gate (NOISE GATE) MXR noise gate
 - [x] Ghost Device (REVERB)
@@ -73,6 +73,7 @@ Incorporate some dry/wet mixing knob? Like the "Split 'n' Blend". Just keep in m
 - [ ] Knight of Tone (DUAL OVERDRIVE) external switches instead of internal DIPs
 
 #### Buy list
+- [x] $400.00  Headrush MX5 modeller
 - [x] $ 90.00  JOYO R-07 Aquarius Delay
 - [x] $ 40.00  Nux NMP-2 Dual Footswitch
 - [ ] $ 80.00  TC Polytune 3 mini
@@ -90,15 +91,12 @@ TOTAL: $615...
 
 #### Acoustic simulator
 - Boss AC-3
-- Koogo Guitar Acoustic Pedal
 - MOOER Acoustic Guitar Effect Pedal
 - NUX Optima Air Dual-Switch Acoustic Simulator
 - Mooer Acoustikar
 
 #### Compressor
 - Mooer yellow comp
-- behringer CS400 compressor/sustainer
-- Koogo Compressor Pedal
 - TC electronic Hypergravity Compressor
 - Pigtronix Philosopher's Tone
 - **Walrus Audio Deep Six**
@@ -111,23 +109,18 @@ TOTAL: $615...
 - R-05 MAXIMUM dual channel overdrive + boost
 - BYOC crown jewel distortion
 - Life Device octave fuzz
-- octave fuzz
 
 ## EQ
-- Behringer EQ700
 - Joyo R-12 Band Controller
 
 #### Mod
-- Behringer UC200 ultra chorus
 - Nux mod core
 - TC The Dreamscape
 - **JOYO R-09 VISION Dual Channel Mod**
-- Behringer fx600
 - MOOER Mod Factory Pro Dual Engine Modulation Pedal 
 - TC QUINTESSENCE HARMONY 
 
 #### Volume
-- SONICAKE Passive Volume & Expression Pedal
 - Donner Mini Passive Volume Expression Pedal
 - VALETON Passive Volume & Expression Pedal
 - Dunlop Volume X Mini\*
@@ -140,9 +133,6 @@ TOTAL: $615...
 - **Nux atlantic** (delay and reverb)
 - **Nux doutime stereo dual delay** (independant channel timing)
 - MXR carbon copy
-- Behringer VD400 vintage delay
-- Behringer fx600 multi effects
-- Koogo Analog Delay Pedal
 - TC flashback 2
 - **JOYO R-07 Aquarius Delay**
 - JOYO D-Seed II Dual channel delay (one time control for both channels)
