@@ -1,5 +1,10 @@
+# MF's Guitar info and things page
 
 
-[instructables pedal](https://www.instructables.com/DIY-Guitar-Pedal/)
+# To-Do
+
+- [ ] backup headrush rigs here?
+- [ ] Outline the current setups of all the guitars
+  - [ ] Tuning, strings, mods, etc.
 
 
