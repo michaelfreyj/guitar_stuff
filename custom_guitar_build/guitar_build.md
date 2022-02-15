@@ -6,10 +6,10 @@ Diy Guitar
 Les paul shape??
 
 ## Bridge
+- Floyd rose with EVH D-Tuna and Tremol-no system
 - [Kahler tremolo](https://www.kahlerusa.com/flat-mount-tremolos-bridges) Seems
     like it has some merit over the floyd rose
 - gibson style tune-o-matic
-
 
 ## electronics config
 
@@ -24,7 +24,7 @@ Les paul shape??
 - 1 switch for voicing
     - push pull or toggle?
 - 1 pickup selector
-    - toggle
+    - 5 way toggle (neck, neck and bridge inner, neck and bridge, neck outer, bridge)
 - two volume knobs, two tone knobs
 - killswitch (momentary button)
     - could probably just use the pickup selector
