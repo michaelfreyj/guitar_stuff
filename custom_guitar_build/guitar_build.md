@@ -43,18 +43,18 @@ Squier Parts-Caster
 Black and gold look total build? probably like $1000..
 for now just switch out the pickups and move the volume
 
-- Fishman fluence single coils
+- pickups ($250): [Fluence single coils](https://www.sweetwater.com/store/detail/Fluence3BLK--fishman-fluence-single-coil-pickups-black-set-of-3)
+- battery ($100): [Fishman strat battery](https://www.sweetwater.com/store/detail/FluenceStrBP--fishman-fluence-strat-pickup-battery-pack-black)
 - 1 volume knob
 - 1 tone knob w/ push/pull pot for voice switch
 - killswitch?
 - gold hardware?
-- warmoth 2 knob pickguard
-- warmoth neck maple/rosewood 
-- hipshot bridge
+- warmoth 2 knob pickguard black pearl ($33)
+- warmoth 22 fret neck maple/rosewood ($320)
 - tunings pegs?
+- bridge ($12): [black trem](https://www.amazon.com/Musiclily-Stratocaster-Tremolo-Electric-Replacement/dp/B01IN8WPPI/ref=sr_1_2?keywords=Tremolo+Bridge&qid=1642281022&sr=8-2)
 
-
-
+Total: $715 
 
 
 [reference build?](https://www.youtube.com/watch?v=J9gBnbQs8T0)
@@ -77,7 +77,7 @@ for now just switch out the pickups and move the volume
 - hipshot $80 (fixed)
 - kahler $230 (fixed)
 - kahler $360 (flat mount trem)
-- floyd style
+- floyd style with tremol-no
 - fender style fixed
 ## Volume/Tone Control
 volume knob shouldn't interfere with palm muting
